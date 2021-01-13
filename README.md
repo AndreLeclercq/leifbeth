@@ -14,7 +14,7 @@ André LECLERCQ, 34 ans, développeur web depuis 3 ans, autodidacte depuis plus 
 
 ## Le Planning
 Celui ci est suceptible de changer assez régulièrement, étant en phase de grands changements professionnels rien n'est sûr.
-* [08h00 - 09h00] | **La matinale de la Veille** - Les dernières actualités high-tech, IT, Développement... on réagit ensemble aux titres du jour.
+* [8h30 - 9h30] | **La matinale de la Veille** - Les dernières actualités high-tech, IT, Développement... on réagit ensemble aux titres du jour.
 * [13h00 - 15h00] | **Dev Web & Chill** - Ce live n'est pas régulier, c'est un créneau horaire que je me reserve si je souhaite faire du dev en direct, en général je préviens sur le discord quand je le lance.
 > [retour au sommaire](#sommaire)
 
