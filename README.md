@@ -13,9 +13,9 @@ André LECLERCQ, 34 ans, développeur web depuis 3 ans, autodidacte depuis plus 
 > [retour au sommaire](#sommaire)
 
 ## Le Planning
-Celui ci est suceptible de changer assez régulièrement, étant en phase de grands changements professionnels rien n'est sûr.
-* [8h30 - 9h30] | **La matinale de la Veille** - Les dernières actualités high-tech, IT, Développement... on réagit ensemble aux titres du jour.
-* [13h00 - 15h00] | **Dev Web & Chill** - Ce live n'est pas régulier, c'est un créneau horaire que je me reserve si je souhaite faire du dev en direct, en général je préviens sur le discord quand je le lance.
+Celui ci est suceptible de changer assez régulièrement, étant en phase de grands changements professionnels rien n'est sûr, pour voir les projets en cours consultez [Mes Projets](#mes-projets).
+* Du Lundi au Vendredi [13h00 - 15h00] | **Dev Web & Chill** - Développement Web ou apprentissage d'un nouveau language, ce créneau est prévu pour la conception Software ;)
+* Samedi [8h00 - 12h00] | **Electronique et Bricolage** - Canniblalisation de laptop, RaspberryPI, Arduino... le samedi matin est dédié principalement au bricolage autour de l'éléctronique.
 > [retour au sommaire](#sommaire)
 
 ## Discord
@@ -44,12 +44,18 @@ Pour le moment c'est tout mais j'ai prévu d'installer un raspberryPi 3 très pr
 > [retour au sommaire](#sommaire)
 
 ## Mes Projets
+### Projets en Cours
+- (13h-15h en live) Apprentissage du RUST from scratch
+- (Samedi matin en live) Cannibalisation d'un vieux Laptop, dans un premier temps on va récupérer l'écran pour m'en servir de second moniteur pour mon NUC8. D'autres pièces seront récupérer par la suite, webcam, clavier, puce WIFI, disque dur...
+
+### Bucket List 2021
 Pour l'année 2021 j'ai prévu une petite "bucket list" que voici, vous pourrez suivre sont avancé en live, sur discord et je ferai la mises à jour ici également ;)
 - [ ] Migrer et travailler sous Linux.
+- [ ] Apprendre le RUST.
 - [ ] Refacto JORD mon projet de Single Page Application en JS/NodeJS/MongoDB.
 - [ ] Installer un serveur sous RaspberryPi 3.
 - [ ] Recycler deux écrans de laptop cassé pour en fare des écrans autonome.
-- [ ] Organiser mon espace de travail en remote de manière optimale
+- [ ] Organiser mon espace de travail en remote de manière optimale.
 
 Je ne me priverai pas d'ajouter d'autres petites choses au cours de l'année ;)
 > [retour au sommaire](#sommaire)
