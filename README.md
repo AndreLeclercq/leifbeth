@@ -23,7 +23,7 @@ LeifBeth n'est autre que la compression des deux pseudos Leifer et Bethsy. À la
 > [retour au sommaire](#sommaire)
 
 ## Discord
-J'ai créé un discord pas vraiment pour la chaine mais pour discuter dans un coin en mode peinard, c'est la que je partage tout ce qui me passe par la tête, dev, arduino, crypto.... Vous pouvez le rejoindre sans problème [Rejoindre le Discord](discord.gg/PPAMxgY)
+J'ai créé un discord pas vraiment pour la chaine mais pour discuter dans un coin en mode peinard, c'est la que je partage tout ce qui me passe par la tête, dev, arduino, crypto.... Vous pouvez le rejoindre sans problème [Rejoindre le Discord](https://discord.gg/PPAMxgY)
 
 Je pose également le discord de copains streamer Francophone de la section Science & Tech de twitch, [Rejoindre le Discord de From Scratch](https://discord.gg/45f3kWUUsf)
 > [retour au sommaire](#sommaire)
